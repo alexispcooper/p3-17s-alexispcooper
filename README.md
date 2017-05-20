@@ -1,1 +1,2 @@
-# p3-17s-alexispcooper
+# ch5-Flickr
+Code for Ch. 5 Flickr Example
